@@ -1,20 +1,18 @@
 # Crypto
 
-## Coins
+## Terminology
 * proof of stake vs proof of work  
 * stable coin vs fiat coin vs alt coin  
-* stable coin is the recommended USDC,USDT  
-* hodl  
-* kyc -https://en.wikipedia.org/wiki/Know_your_customer  
+* HODL  
+* KYC -https://en.wikipedia.org/wiki/Know_your_customer  
 
-## Terminology
 * DEFI  
 * DEX
 * PNL
 * LTV  
 * ETF  
 * ITO ,ICO 
-* stocks vs bonds  
+* Stocks vs bonds  
 
 ## Wallets
 * https://academy.binance.com/en/articles/crypto-wallet-types-explained
@@ -31,5 +29,6 @@
 * https://coinmarketcap.com/
 
 
-
+## Youtubers to follow 
+* Wes Spencer - https://www.youtube.com/channel/UC7cC4MniBoSGHpoxw4hnAKw
 
