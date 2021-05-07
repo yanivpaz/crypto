@@ -8,14 +8,17 @@
 * kyc -https://en.wikipedia.org/wiki/Know_your_customer  
 
 ## Terminology
-* defi  
-* dex
+* DEFI  
+* DEX
 * PNL
-* wallet -  seed pharse (12/24 words),private key  
 * LTV  
 * ETF  
 * ITO ,ICO 
 * stocks vs bonds  
+
+## Wallets
+* https://academy.binance.com/en/articles/crypto-wallet-types-explained
+* seed phrase
 
 ## Loans
 * margin call  
@@ -25,6 +28,7 @@
  
 ## Sites
 * https://www.cryptojungle.co.il/
+* https://coinmarketcap.com/
 
 
 
