@@ -1,15 +1,15 @@
 # Crypto
 
 ## Terminology
-* Crypto types 
- - proof of stake (cordano)
- - proof of work  (bitcoin)
- - proof of space (chia)
-* Coins type 
- - stable coin 
- - fiat coin 
- - alt coin ( non bitcoin )   
-* HODL  
+* Crypto types   
+  - proof of stake (cordano)
+  - proof of work  (bitcoin)
+  - proof of space (chia)
+* Coins type  
+  - stable coin 
+  - fiat coin 
+  - alt coin ( non bitcoin )   
+* HODL    
 * KYC - Know your customer 
  - https://en.wikipedia.org/wiki/Know_your_customer  
 * DEFI  
