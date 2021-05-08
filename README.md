@@ -2,16 +2,16 @@
 
 ## Terminology
 * Crypto types 
- * proof of stake (cordano)
- * proof of work  (bitcoin)
- * proof of space (chia)
+ - proof of stake (cordano)
+ - proof of work  (bitcoin)
+ - proof of space (chia)
 * Coins type 
- * stable coin 
- * fiat coin 
- * alt coin ( non bitcoin )   
+ - stable coin 
+ - fiat coin 
+ - alt coin ( non bitcoin )   
 * HODL  
 * KYC - Know your customer 
- * https://en.wikipedia.org/wiki/Know_your_customer  
+ - https://en.wikipedia.org/wiki/Know_your_customer  
 * DEFI  
 * DEX - distriuted exchange vs exchange 
   * https://macrobit.co.il/uniswap/ 
@@ -20,6 +20,7 @@
 * ETF  
 * ITO ,ICO 
 * Stocks vs bonds  
+* Farming vs mining 
 
 ## Wallets
 * https://academy.binance.com/en/articles/crypto-wallet-types-explained
