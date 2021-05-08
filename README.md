@@ -2,8 +2,8 @@
 
 ## Terminology
 * Crypto types   
-  - proof of stake (cordano)
   - proof of work  (bitcoin)
+  - proof of stake (cordano)
   - proof of space (chia)
 * Coins type  
   - stable coin 
