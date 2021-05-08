@@ -11,10 +11,10 @@
   - alt coin ( non bitcoin )   
 * HODL    
 * KYC - Know your customer 
- - https://en.wikipedia.org/wiki/Know_your_customer  
+  - https://en.wikipedia.org/wiki/Know_your_customer  
 * DEFI  
 * DEX - distriuted exchange vs exchange 
-  * https://macrobit.co.il/uniswap/ 
+  - https://macrobit.co.il/uniswap/ 
 * PNL
 * LTV  
 * ETF  
@@ -30,7 +30,7 @@
 * margin call  
 * baloon - interest per month,prinicpal in the end  
 * reverse margain calls 
-* [Glosarry](Glossary.md)
+* [Loans terminology](Glossary.md)
  
 ## Sites
 * https://www.cryptojungle.co.il/
