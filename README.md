@@ -16,6 +16,7 @@
 * DEX - distriuted exchange vs exchange 
   - https://macrobit.co.il/uniswap/ 
 * PNL
+* [Smart contracts for dummies](https://www.freecodecamp.org/news/smart-contracts-for-dummies-a1ba1e0b9575/)
 * LTV  
 * ETF  
 * ITO ,ICO 
@@ -40,5 +41,4 @@
 ## Youtubers to follow 
 * Wes Spencer - https://www.youtube.com/channel/UC7cC4MniBoSGHpoxw4hnAKw
 * Jason Pizzino - https://www.youtube.com/channel/UCIb34uXDsfTq4PJKW0eztkA
-* 
 
