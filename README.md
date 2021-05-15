@@ -1,7 +1,7 @@
 # Crypto
 
 ## Terminology
-* Crypto types   
+* Crypto transaction approval  
   - proof of work  (bitcoin)
   - proof of stake (cordano)
   - proof of space (chia)
@@ -19,9 +19,10 @@
 * [Smart contracts for dummies](https://www.freecodecamp.org/news/smart-contracts-for-dummies-a1ba1e0b9575/)
 * LTV  
 * ETF  
-* ITO ,ICO 
+* IPO vs ICO 
 * Stocks vs bonds  
 * Farming vs mining 
+* [CEFI vs DEFI](https://youtu.be/aSxWVKDdvTc) 
 
 ## Wallets
 * https://academy.binance.com/en/articles/crypto-wallet-types-explained
