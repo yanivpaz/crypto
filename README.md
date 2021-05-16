@@ -1,7 +1,9 @@
 # Crypto
 
 ## Terminology
-* Crypto transaction approval  
+* Blockchain protocols
+  - https://101blockchains.com/blockchain-protocol/
+* Consensus Mechanism 
   - proof of work  (bitcoin)
   - proof of stake (cordano)
   - proof of space (chia)
@@ -10,6 +12,7 @@
   - fiat coin 
   - alt coin ( non bitcoin )   
 * HODL    
+  - https://support.celsius.network/hc/en-us/articles/360007608077-What-is-the-HODL-Mode-
 * KYC - Know your customer 
   - https://en.wikipedia.org/wiki/Know_your_customer  
 * DEFI  
