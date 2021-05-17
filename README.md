@@ -8,16 +8,14 @@
   - proof of stake (cordano) - https://www.cryptojungle.co.il/what-is-pos/
   - proof of space (chia)
 * Coins type  
-  - stable coin 
+  - [stable coin](https://www.youtube.com/watch?v=O3rVWLhBIPo&ab_channel=Blockgeeks) 
   - fiat coin 
   - alt coin ( non bitcoin )   
 * HODL    
   - https://support.celsius.network/hc/en-us/articles/360007608077-What-is-the-HODL-Mode-
-* KYC - Know your customer 
-  - https://en.wikipedia.org/wiki/Know_your_customer  
+* [KYC - Know your customer ](https://en.wikipedia.org/wiki/Know_your_customer)
 * DEFI  
-* DEX - distriuted exchange vs exchange 
-  - https://macrobit.co.il/uniswap/ 
+* [DEX - distriuted exchange vs exchange](https://macrobit.co.il/uniswap/ )
 * PNL
 * [Smart contracts for dummies](https://www.freecodecamp.org/news/smart-contracts-for-dummies-a1ba1e0b9575/)
 * LTV  
