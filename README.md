@@ -30,7 +30,7 @@
 * https://academy.binance.com/en/articles/a-complete-guide-to-cryptocurrency-trading-for-beginners 
   - Stocks vs bonds  
 * Candlestick - https://www.youtube.com/watch?v=1rwVV_8uUxc&ab_channel=DecisiveTrading 
-
+* TA explained - https://www.youtube.com/watch?v=eynxyoKgpng&ab_channel=TheTradingChannel
 
 ## Wallets
 * https://academy.binance.com/en/articles/crypto-wallet-types-explained
