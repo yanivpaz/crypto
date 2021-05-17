@@ -5,7 +5,7 @@
   - https://101blockchains.com/blockchain-protocol/
 * Consensus Mechanism 
   - proof of work  (bitcoin)
-  - proof of stake (cordano)
+  - proof of stake (cordano) - https://www.cryptojungle.co.il/what-is-pos/
   - proof of space (chia)
 * Coins type  
   - stable coin 
