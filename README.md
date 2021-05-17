@@ -32,7 +32,9 @@
 * Candlestick - https://www.youtube.com/watch?v=1rwVV_8uUxc&ab_channel=DecisiveTrading 
 * TA explained - https://www.youtube.com/watch?v=eynxyoKgpng&ab_channel=TheTradingChannel
 * Different options
-  - Margain trading - get loans in order to invest/trade - https://youtu.be/CtqLWloGDOI?t=272
+  - Margain trading - get loans in order to invest/trade 
+      -  https://youtu.be/CtqLWloGDOI?t=272 
+      -  https://academy.binance.com/en/articles/binance-margin-trading-guide
   - Staking 
       - lock/flexible 
       - DEFI  
