@@ -27,6 +27,11 @@
 * Farming vs mining 
 * [CEFI vs DEFI](https://youtu.be/aSxWVKDdvTc) 
 
+## Trading
+* Candlestick - https://www.youtube.com/watch?v=1rwVV_8uUxc&ab_channel=DecisiveTrading 
+* 
+
+
 ## Wallets
 * https://academy.binance.com/en/articles/crypto-wallet-types-explained
 
