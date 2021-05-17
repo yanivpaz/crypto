@@ -31,6 +31,11 @@
   - Stocks vs bonds  
 * Candlestick - https://www.youtube.com/watch?v=1rwVV_8uUxc&ab_channel=DecisiveTrading 
 * TA explained - https://www.youtube.com/watch?v=eynxyoKgpng&ab_channel=TheTradingChannel
+* Different options
+  - Margain trading - get loans in order to invest/trade - https://youtu.be/CtqLWloGDOI?t=272
+  - Staking 
+      - lock/flexible 
+      - DEFI  
 
 ## Wallets
 * https://academy.binance.com/en/articles/crypto-wallet-types-explained
