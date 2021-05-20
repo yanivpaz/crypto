@@ -34,7 +34,7 @@
       -  https://youtu.be/CtqLWloGDOI?t=272 
       -  https://academy.binance.com/en/articles/binance-margin-trading-guide
   - Staking 
-      - lock/flexible 
+      - lock/flexible - https://www.youtube.com/watch?v=tJWHUOH-aAw&feature=youtu.be
       - DEFI  
 
 ## Wallets
